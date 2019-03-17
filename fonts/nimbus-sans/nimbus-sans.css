@@ -1,0 +1,41 @@
+@font-face {
+	font-family: nimbus-sans;
+	src: url(./da0c19) format("woff2"), url(./da0c19) format("woff"), url(./da0c19) format("opentype");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: nimbus-sans;
+	src: url(./7ba522) format("woff2"), url(./7ba522) format("woff"), url(./7ba522) format("opentype");
+	font-weight: 400;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: nimbus-sans;
+	src: url(./360cf4) format("woff2"), url(./360cf4) format("woff"), url(./360cf4) format("opentype");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: nimbus-sans;
+	src: url(./a44ffc) format("woff2"), url(./a44ffc) format("woff"), url(./a44ffc) format("opentype");
+	font-weight: 700;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: nimbus-sans;
+	src: url(./50ea52) format("woff2"), url(/fonts-nimbus-sans/50ea52) format("woff"), url(/fonts-nimbus-sans/50ea52) format("opentype");
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: nimbus-sans;
+	src: url(./bb49eb) format("woff2"), url(./bb49eb) format("woff"), url(./bb49eb) format("opentype");
+	font-weight: 300;
+	font-style: italic;
+}

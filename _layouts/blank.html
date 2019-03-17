@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<title>{{ page.title }}</title>
+<meta charset="{{ page.charset }}">
+<meta name="description" content="{{ page.description }}">
+<meta property="og:title" content="{{ page.site_name }}">
+<meta property="og:description" content="{{ page.description }}">
+<meta property="og:url" content="{{ page.url }}">
+<meta property="og:locale" content="{{ page.locale }}">
+<meta property="og:type" content="{{ page.type }}">
+<meta property="og:site_name" content="{{ page.site_name }}">
+<link rel="shortcut icon" href="http://www.catb.org/hacker-emblem/glider.ico">
+<link rel="stylesheet" href="/fonts/nimbus-sans/nimbus-sans.css">
+<style type="text/css">
+/*
+  @sonnyksimon "Sonny Kothapally <me@sonnyksimon.com>"
+*/
+
+/* mobile font size */
+@media only screen and (min-width:0px) and (max-width: 1000px) {
+    html>body {
+        font-size:2rem;
+        padding:2rem;
+    }
+}
+
+/* desktop font sizing */
+@media only screen and (min-width:1000px) {
+    html>body {
+        font-size:16px;
+        padding:16px;
+    }
+}
+
+body {
+    line-height: 1.45;
+
+    /* fix problem on mobile orientation changes */
+    -webkit-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+    text-size-adjust: none;
+}
+
+p, ol, ul, pre {
+    font-size: 1em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-weight: normal;
+}
+
+body {
+    font-family: "nimbus-sans",Sans-serif,Arial,Verdana;
+    font-style : normal;
+    font-weight : 300;
+}
+
+tt, code, kbd, samp {
+    font-family: "nimbus-sans",Sans-serif,Arial,Verdana;
+}
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,p,blockquote,th,td {
+    text-rendering: optimizeLegibility; /*magic*/
+}
+
+body { background-color: #ffd; }
+:link, :visited { color: #68693F; text-decoration:none; }
+a:link, a:visited { background-color: #ffc; }
+::-moz-selection { background-color: #b3d4fc; text-shadow: none }
+::selection { background-color: #b3d4fc; text-shadow: none}
+
+</style>
+<body>
+
+{{ content }}
+
+<script type="text/javascript">
+function ready(fn) {
+    if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading") {
+        fn();
+    } else {
+        document.addEventListener('DOMContentLoaded', fn);
+    }
+}
+
+function show_urls_on_hover() {
+    var links = document.getElementsByTagName("A");
+    for(i=0;i<links.length;i++)
+        /* show link url on hover (only if there isn't already some hover text ofc) */
+        links[i].title = (!links[i].title) ? links[i].href : links[i].title;
+}
+
+ready(function(){
+    show_urls_on_hover();
+});
+
+</script>
+</body>
+</html>

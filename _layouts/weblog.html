@@ -1,0 +1,32 @@
+---
+layout: blank
+---
+
+<h1><a href="./" title="by Sonny Kothapally">weblog</a></h1>
+
+<p style="text-align: left; padding-left: 1em; margin-top: 0; margin-bottom: 0">by <a href="/">Sonny Kothapally</a></p>
+
+<table style="width:100%"><tbody><tr>
+<td style="width:30em; padding-left:4em;">
+  {% for post in site.posts limit:3 %}
+    <h3><a href="{{ post.url }}" style="color:black; background-color:inherit;">{{ post.title }}</a></h3>
+    {{ post.content }}
+    <p style="text-align:right;color:#666;font-style:italic;"><a href="{{ post.url }}" style="color:inherit;background-color:inherit;">{{ post.date | date: "%B  %-d, %Y" }}</a></p>
+  {% endfor %}
+  <p><a href="/weblog/archive" style="
+    color: #555;
+    text-decoration: none;
+    background-color: #D2D6BC;
+    padding: .5em;
+    margin: -.5em;
+    border-bottom: none;">Older posts.</a></p>
+</td>
+<td style="vertical-align:top; text-align:right;">
+  <h2>More</h2>
+  <p><a href="http://pancubs.org">pancubs</a></p>
+  <p><a href="http://twitter.com/sonnyksimon">tweets</a></p>
+  <p><a href="./">feed</a></p>
+</td>
+</tr></tbody></table>
+
+<p style="text-align:right">Powered by <a href="http://pancubs.org">pancubs.org</a></p>
