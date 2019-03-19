@@ -21,7 +21,7 @@ Sonny Kothapally is a [hacker](http://www.catb.org/esr/faqs/hacker-howto.html). 
 
 ## Contact
 
-Sonny Kothapally <br> `<`[`me@sonnyksimon.com`](mailto:me@sonnyksimon.com)`>` <br> 58 Brickdam <br> Stabroek, Georgetown, GY <br>
+Sonny Kothapally <br> <[me@sonnyksimon.com](mailto:me@sonnyksimon.com)> <br> 58 Brickdam <br> Stabroek, Georgetown, GY <br>
 
 I prefer email. If something is urgent, you should really send it again to me. I don't use the phone. If you have some reason to call me, please warn me first by email.
 
@@ -36,7 +36,7 @@ I seem to spend so much of my time watching television shows lately that I wasn'
 
 **Archaic**: [Nicolai Copernici Torinensis De reuolutionibus orbium coelestium, libri VI](http://en.wikipedia.org/wiki/Nicolaus_Copernicus#The_book)
 
-**Random**: Coiling Dragon by I Eat Tomatoes (我吃西红柿), I Shall Seal The Heavens by Er Gen (耳根)
+**Random**: [Coiling Dragon](https://coiling-dragon.fandom.com/wiki/Coiling_Dragon_Wiki) by I Eat Tomatoes (我吃西红柿), [I Shall Seal The Heavens](https://i-shall-seal-the-heavens.fandom.com/wiki/Home) by Er Gen (耳根)
 
 ## Things I'm Working On
 
@@ -74,15 +74,15 @@ I seem to spend so much of my time watching television shows lately that I wasn'
 
 **Databases:** Oracle, PostgreSQL
 
-**Languages:** C, Python, Javascript, bash and English (my-language-of-choice)
+**Languages:** C, Python, Javascript, bash and English
 
-**Operating Systems:** Ubuntu, Debian GNU/Linux, ~~Windows~~ *not anymore*, ~~macOS~~ *nope*
+**Operating Systems:** Ubuntu, Debian GNU/Linux
 
 **Study:** computing, thought (ala [Chomsky](https://www.haymarketbooks.org/authors/28-noam-chomsky)), physics (ala [Feynman](http://feynmanlectures.caltech.edu))
 
 ## Schooling
 
-~~(2020) B.S. *Computing and Information Systems*. **University of London**.~~ *not yet*
+(2020) B.S. *Computing and Information Systems*. **University of London**.
 
 (2016) A.S. *Physics, Chemistry, Pure Mathematics, Computer Science, Digital Media*. **Queen’s College, Guyana**.
 
@@ -122,7 +122,7 @@ I seem to spend so much of my time watching television shows lately that I wasn'
 
 ## Games I've Played
 
-SuperTux, TuxRacer, PepsiMan, Road Rash, DxBall, Pinball, 4dPrinceOfPersia, SkyRoads, Dangerous Dave, Icy Tower, Age of Empires, Praetorians, the pokemons, the fifas, the narutos.. to be continued
+SuperTux, TuxRacer, PepsiMan, Road Rash, DxBall, Pinball, 4dPrinceOfPersia, SkyRoads, Dangerous Dave, Icy Tower, Age of Empires, Praetorians, Pokemon Yellow, Pokemon Yellow, Pokemon Sapphire, FIFA 12, FIFA 15, FIFA 17, NARUTO: Ultimate Ninja STORM, Naruto Shippuden: Ultimate Ninja Storm 2, Naruto Shippuden: Ultimate Ninja Storm 3, and Naruto Ultimate Ninja Storm 4
 
 ## Hardware
 
@@ -130,7 +130,7 @@ I bought a [Lenovo IdeaPad 330](https://en.wikipedia.org/wiki/IdeaPad#IdeaPad_30
 
 My laptop runs Linux.
 
-My main mobile device is an [Xperia X Compact](https://en.wikipedia.org/wiki/Sony_Xperia_X_Compact). I mostly only use it to keep in touch with friends and family, and listen to [music](http://nirvana.com).
+My main mobile device is an [Xperia X Compact](https://en.wikipedia.org/wiki/Sony_Xperia_X_Compact). I use it to keep in touch with friends and family, and listen to [music](http://nirvana.com).
 
 ## Software
 
