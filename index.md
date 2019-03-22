@@ -25,6 +25,8 @@ Sonny Kothapally <br> <[me@sonnyksimon.com](mailto:me@sonnyksimon.com)> <br> 58 
 
 I prefer email. If something is urgent, you should really send it again to me. I don't use the phone. If you have some reason to call me, please warn me first by email.
 
+*You can browse my resume [here](/resume).*
+
 ## Reading
 I seem to spend so much of my time watching television shows lately that I wasn't reading nearly enough books. I suspect I won't make it through but hopefully there's some progress there.
 
@@ -126,7 +128,7 @@ SuperTux, TuxRacer, PepsiMan, Road Rash, DxBall, Pinball, 4dPrinceOfPersia, SkyR
 
 ## Hardware
 
-I bought a [Lenovo IdeaPad 330](https://en.wikipedia.org/wiki/IdeaPad#IdeaPad_300_Series), the cheapest Lenovo I could find which still had decent build quality. Lenovos seem the best ones to get if you're not going to go for a MacBook. Data is scattered over multiple SD cards and hard drives, with huge overlaps. I like to keep multiple copies just in case something starts failing. 
+I bought a [Lenovo IdeaPad 330](https://en.wikipedia.org/wiki/IdeaPad#IdeaPad_300_Series), the cheapest Lenovo I could find which still had decent build quality. Lenovos seem the best ones to get if you're not going to go for a MacBook. Data is scattered over multiple SD cards and hard drives, with huge overlaps. I like to keep multiple copies just in case something starts failing.
 
 My laptop runs Linux.
 
@@ -134,7 +136,7 @@ My main mobile device is an [Xperia X Compact](https://en.wikipedia.org/wiki/Son
 
 ## Software
 
-**My dock:** 
+**My dock:**
 
 1. [Google Chrome](http://google.com/chrome) (web surfing)
 2. [Tor Browser](http://torproject.org/projects/torbrowser.html) (private browsing)

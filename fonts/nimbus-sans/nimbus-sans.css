@@ -28,7 +28,7 @@
 
 @font-face {
 	font-family: nimbus-sans;
-	src: url(./50ea52) format("woff2"), url(/fonts-nimbus-sans/50ea52) format("woff"), url(/fonts-nimbus-sans/50ea52) format("opentype");
+	src: url(./50ea52) format("woff2"), url(./50ea52) format("woff"), url(./50ea52) format("opentype");
 	font-weight: 300;
 	font-style: normal;
 }
