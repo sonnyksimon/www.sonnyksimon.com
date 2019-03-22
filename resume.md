@@ -45,7 +45,7 @@ My high-level languages include bash, C, C#, C++, Javascript, Java, MATLAB, Pasc
 
 I am experienced in PostgreSQL and Oracle. I have also programmed static file servers in MongoDB.
 
-#### Technologies
+#### Technologies:
 
 I have developed websites in Wordpress, Drupal and Python (web.py).
 
