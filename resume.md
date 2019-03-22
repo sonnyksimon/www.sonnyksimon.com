@@ -43,7 +43,7 @@ My high-level languages include bash, C, C#, C++, Javascript, Java, MATLAB, Pasc
 
 #### Databases:
 
-I am experienced in PostgreSQL and Oracle database. I have also programmed static file servers in MongoDB.
+I am experienced in PostgreSQL and Oracle. I have also programmed static file servers in MongoDB.
 
 #### Technologies
 
