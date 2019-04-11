@@ -146,7 +146,7 @@ My main mobile device is an [Xperia X Compact](https://en.wikipedia.org/wiki/Son
 
 ## Useful Sources
 
-**Electronics**: [Military Standard, Standard general requirements for electronic equipment](http://everyspec.com/MIL-STD/MIL-STD-0300-0499/MIL-STD-454N_9160/)
+1. [Military Standard, Standard general requirements for electronic equipment](http://everyspec.com/MIL-STD/MIL-STD-0300-0499/MIL-STD-454N_9160/)
 
 *Original articles on this site are CC [BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) licensed unless otherwise stated.*
 {: style="font-size: 0.7em"}
