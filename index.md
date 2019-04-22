@@ -3,7 +3,7 @@ layout: blank
 title: Sonny Kothapally
 charset: utf-8
 description: Sonny Kothapally is a hacker. He is currently enrolled in a distance learning programme studying computers.
-url: https://sonnyksimon.com/
+url: http://www.sonnyksimon.com/
 locale: en_US
 type: website
 site_name: sonnyksimon
@@ -13,9 +13,9 @@ site_name: sonnyksimon
 
 [weblog](/weblog/) &middot; [twitter](http://twitter.com/sonnyksimon) &middot; [links](#links) &middot; [quotes](#quotes)
 
-**Nearby:** [what i read](#reading), [things i'm working on](#things-im-working-on), [my schedule](https://calendar.google.com/calendar/embed?src=sonnyksimon@gmail.com)
+**Nearby:** [what i read](#reading), [things i'm working on](#things-im-working-on), [my schedule](http://calendar.google.com/calendar/embed?src=sonnyksimon@gmail.com)
 
-Sonny Kothapally is a [hacker](http://www.catb.org/esr/faqs/hacker-howto.html). He is currently enrolled in a [distance learning programme](https://london.ac.uk/courses/computing-and-information-systems) studying computers.
+Sonny Kothapally is a [hacker](http://www.catb.org/esr/faqs/hacker-howto.html). He is currently enrolled in a [distance learning programme](http://london.ac.uk/courses/computing-and-information-systems) studying computers.
 
 [![hacker emblem](http://www.catb.org/hacker-emblem/glider.png)](http://www.catb.org/hacker-emblem/)
 
@@ -38,7 +38,7 @@ I seem to spend so much of my time watching television shows lately that I wasn'
 
 **Archaic**: [Nicolai Copernici Torinensis De reuolutionibus orbium coelestium, libri VI](http://en.wikipedia.org/wiki/Nicolaus_Copernicus#The_book)
 
-**Random**: [Coiling Dragon](https://coiling-dragon.fandom.com/wiki/Coiling_Dragon_Wiki) by I Eat Tomatoes (我吃西红柿), [I Shall Seal The Heavens](https://i-shall-seal-the-heavens.fandom.com/wiki/Home) by Er Gen (耳根)
+**Random**: [Coiling Dragon](http://coiling-dragon.fandom.com/wiki/Coiling_Dragon_Wiki) by I Eat Tomatoes (我吃西红柿), [I Shall Seal The Heavens](http://i-shall-seal-the-heavens.fandom.com/wiki/Home) by Er Gen (耳根)
 
 ## Things I'm Working On
 
@@ -80,7 +80,7 @@ I seem to spend so much of my time watching television shows lately that I wasn'
 
 **Operating Systems:** Ubuntu, Debian GNU/Linux
 
-**Study:** computing, thought (ala [Chomsky](https://www.haymarketbooks.org/authors/28-noam-chomsky)), physics (ala [Feynman](http://feynmanlectures.caltech.edu))
+**Study:** computing, thought (ala [Chomsky](http://www.haymarketbooks.org/authors/28-noam-chomsky)), physics (ala [Feynman](http://feynmanlectures.caltech.edu))
 
 ## Schooling
 
@@ -128,11 +128,11 @@ SuperTux, TuxRacer, PepsiMan, Road Rash, DxBall, Pinball, 4dPrinceOfPersia, SkyR
 
 ## Hardware
 
-I bought a [Lenovo IdeaPad 330](https://en.wikipedia.org/wiki/IdeaPad#IdeaPad_300_Series), the cheapest Lenovo I could find which still had decent build quality. Lenovos seem the best ones to get if you're not going to go for a MacBook. Data is scattered over multiple SD cards and hard drives, with huge overlaps. I like to keep multiple copies just in case something starts failing.
+I bought a [Lenovo IdeaPad 330](http://en.wikipedia.org/wiki/IdeaPad#IdeaPad_300_Series), the cheapest Lenovo I could find which still had decent build quality. Lenovos seem the best ones to get if you're not going to go for a MacBook. Data is scattered over multiple SD cards and hard drives, with huge overlaps. I like to keep multiple copies just in case something starts failing.
 
 My laptop runs Linux.
 
-My main mobile device is an [Xperia X Compact](https://en.wikipedia.org/wiki/Sony_Xperia_X_Compact). I use it to keep in touch with friends and family, and listen to [music](http://nirvana.com).
+My main mobile device is an [Xperia X Compact](http://en.wikipedia.org/wiki/Sony_Xperia_X_Compact). I use it to keep in touch with friends and family, and listen to [music](http://nirvana.com).
 
 ## Software
 
@@ -144,11 +144,11 @@ My main mobile device is an [Xperia X Compact](https://en.wikipedia.org/wiki/Son
 4. [gedit](http://wiki.gnome.org/Apps/Gedit) (writing)
 5. [Terminal](help.gnome.org/users/gnome-terminal/stable/)
 
-## Useful Sources
+## Interesting Pages
 
 1. [Military Standard, Standard general requirements for electronic equipment](http://everyspec.com/MIL-STD/MIL-STD-0300-0499/MIL-STD-454N_9160/)
 
-*Original articles on this site are CC [BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) licensed unless otherwise stated.*
+*Original articles on this site are CC [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) licensed unless otherwise stated.*
 {: style="font-size: 0.7em"}
 
 *last updated March 2019*
