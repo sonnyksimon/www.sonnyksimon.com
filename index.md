@@ -151,5 +151,5 @@ My main mobile device is an [Xperia X Compact](http://en.wikipedia.org/wiki/Sony
 *Original articles on this site are CC [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) licensed unless otherwise stated.*
 {: style="font-size: 0.7em"}
 
-*last updated March 2019*
+*last updated April 2019*
 {: style="text-align:right; font-size: smaller"}
