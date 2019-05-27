@@ -15,6 +15,8 @@ site_name: sonnyksimon
 
 **Nearby:** [what i read](#reading), [things i'm working on](#things-im-working-on), [my schedule](http://calendar.google.com/calendar/embed?src=sonnyksimon@gmail.com)
 
+Daoist on the web 🍀 🌸.
+
 Sonny Kothapally is a [hacker](http://www.catb.org/esr/faqs/hacker-howto.html). He is currently enrolled in a [distance learning programme](http://london.ac.uk/courses/computing-and-information-systems) studying computers.
 
 [![hacker emblem](http://www.catb.org/hacker-emblem/glider.png)](http://www.catb.org/hacker-emblem/)
@@ -43,8 +45,9 @@ I seem to spend so much of my time watching television shows lately that I wasn'
 ## Things I'm Working On
 
 1.  [coacting.org](http://coacting.org/) ( a platform to share thoughts )
-2.  [renpan](http://github.com/pancubs) ( a panbot that looks up various news sites and filters the good ones (imho) )
-3.  [everything else](http://github.com/sonnyksimon) ( source control )
+2.  [renpan](http://github.com/pancubs/renpan) ( a panbot that looks up various news sites and filters the good ones (imho) )
+3.  [irisreport.com](http://irisreport.com) ( a bot for disseminating information to the public about a [disruptive road project](http://web.archive.org/web/20190527180954/http://guyanachronicle.com/2019/04/05/sheriff-street-mandela-avenue-road-project-to-be-accelerated) )
+4.  [everything else](http://github.com/sonnyksimon) ( source control )
 
 ## Websites
 
@@ -116,7 +119,7 @@ I seem to spend so much of my time watching television shows lately that I wasn'
 
 ## Artwork
 
--- I destroy all works I create until I can reach a certain level of competence to show
+-- Still learning.
 
 ## Notes
 
