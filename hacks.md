@@ -1,6 +1,6 @@
 ---
 layout: blank
-title: thing's i'm working on (sonny kothapally)
+title: things i'm working on (sonny kothapally)
 charset: utf-8
 description: Sonny Kothapally is a hacker. He is currently enrolled in a distance learning programme studying computers.
 url: http://www.sonnyksimon.com/hacks
