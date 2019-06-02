@@ -18,7 +18,7 @@ site_name: sonnyksimon
 
 **Also close by:** [about me](/about) &middot; [good words](/about#quotes) &middot; [interesting pages](/interesting-pages)
 
-Sonny Kothapally is a [hacker](http://www.catb.org/esr/faqs/hacker-howto.html) and [daoist](http://www.iep.utm.edu/daoism/#H5) on the web 🍀 🌸. He is currently enrolled in a [distance learning programme](http://london.ac.uk/courses/computing-and-information-systems) studying computers.
+Sonny Kothapally is a [hacker](http://www.catb.org/esr/faqs/hacker-howto.html) and [daoist](http://www.iep.utm.edu/daoism/#H5) on the web ![four leaf clover](/four-leaf-clover.png){:height="16px" width="16px"} ![cherry blossom](/cherry-blossom.png){:height="16px" width="16px"}. He is currently enrolled in a [distance learning programme](http://london.ac.uk/courses/computing-and-information-systems) studying computers.
 
 <[me@sonnyksimon.com](mailto:me@sonnyksimon.com)>
 
