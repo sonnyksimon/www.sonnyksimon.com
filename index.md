@@ -16,7 +16,7 @@ site_name: sonnyksimon
 
 **Nearby:** [what i read](/reading), [things i'm working on](/hacks), [my schedule](http://calendar.google.com/calendar/embed?src=sonnyksimon@gmail.com)
 
-**Also close by:** [about me](/about) &middot; [good words](/about#quotes) &middot; [interesting pages](/interesting-pages)
+**Also close by:** [about me](/about), [good words](/about#quotes), [interesting pages](/interesting-pages)
 
 Sonny Kothapally is a [hacker](http://www.catb.org/esr/faqs/hacker-howto.html) and [daoist](http://www.iep.utm.edu/daoism/#H5) on the web. He is currently enrolled in a [distance learning programme](http://london.ac.uk/courses/computing-and-information-systems) studying computers.
 
@@ -26,4 +26,4 @@ Sonny Kothapally is a [hacker](http://www.catb.org/esr/faqs/hacker-howto.html) a
 {: style="font-size: 0.7em"}
 
 *last updated May 2019*
-{: style="text-align:right; font-size: smaller"}
+{: style="font-size: smaller"}
