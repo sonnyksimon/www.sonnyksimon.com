@@ -21,8 +21,6 @@ Sonny Kothapally <br> <[me@sonnyksimon.com](mailto:me@sonnyksimon.com)> <br> 58 
 
 I prefer email. If something is urgent, you should really send it again to me. I don't use the phone. If you have some reason to call me, please warn me first by email.
 
-*You can browse my resume [here](/resume).*
-
 ## Background
 
 **Web:** Apache, Python
