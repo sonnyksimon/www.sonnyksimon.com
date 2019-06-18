@@ -9,7 +9,7 @@ type: website
 site_name: sonnyksimon
 ---
 
-# [Sonny Kothapally](/)
+# Sonny Kothapally
 
 [weblog](/weblog/) &middot; [twitter](http://twitter.com/sonnyksimon) &middot; [facebook](http://facebook.com/sonny.kothapally) &middot; [flickr](http://flickr.com/sonnyksimon) &middot; [instagram](http://instagram.com/sonnyksimon) &middot; [reddit](http://reddit.com/u/sonnyksimon) &middot; [skype](skype:sonnyksimon?userinfo) &middot; [youtube](http://youtube.com/sonnyksimon)
 

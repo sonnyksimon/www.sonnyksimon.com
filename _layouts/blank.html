@@ -12,72 +12,7 @@
 <meta property="og:site_name" content="{{ page.site_name }}">
 <link rel="shortcut icon" href="http://www.catb.org/hacker-emblem/glider.ico">
 <link rel="stylesheet" href="/fonts/nimbus-sans/nimbus-sans.css">
-<style type="text/css">
-/*
-  @sonnyksimon "Sonny Kothapally <me@sonnyksimon.com>"
-*/
-
-/* mobile font size */
-@media only screen and (min-width:0px) and (max-width: 1000px) {
-    html>body {
-        font-size:2rem;
-        padding:2rem;
-    }
-}
-
-/* desktop font sizing */
-@media only screen and (min-width:1000px) {
-    html>body {
-        font-size:16px;
-        padding:16px;
-    }
-}
-
-@media print { .no-print{ display:none } }
-
-body {
-    line-height: 1.45;
-
-    /* fix problem on mobile orientation changes */
-    -webkit-text-size-adjust: none;
-    -moz-text-size-adjust: none;
-    -ms-text-size-adjust: none;
-    text-size-adjust: none;
-}
-
-p, ol, ul, pre {
-    font-size: 1em;
-}
-
-h2 {
-    font-size: 1.5em;
-}
-
-h1,h2,h3,h4,h5,h6 {
-    font-weight: normal;
-}
-
-body {
-    font-family: "nimbus-sans",Arial,Verdana,sans-serif;
-    font-style : normal;
-    font-weight : 300;
-}
-
-tt, code, kbd, samp {
-    font-family: "nimbus-sans",Arial,Verdana,sans-serif;
-}
-
-body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,p,blockquote,th,td {
-    text-rendering: optimizeLegibility; /*magic*/
-}
-
-body { background-color: #ffd; color: #000; }
-a:link, a:visited { background-color: #ffc; }
-:visited, :link { color: #68693F; text-decoration: none; }
-::-moz-selection { background-color: #b3d4fc; text-shadow: none }
-::selection { background-color: #b3d4fc; text-shadow: none}
-
-</style>
+<link rel="stylesheet" href="/wikistyle.css">
 <body>
 
 {{ content }}
