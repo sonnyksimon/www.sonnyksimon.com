@@ -35,5 +35,5 @@ Sonny Kothapally is a [hacker](http://www.catb.org/esr/faqs/hacker-howto.html) a
 *Original articles on this site are CC [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) licensed unless otherwise stated.*
 {: style="font-size: 0.7em"}
 
-*last updated May 2019*
+*last updated June 2019*
 {: style="font-size: smaller"}
