@@ -85,11 +85,14 @@ My main mobile device is an [Xperia X Compact](http://en.wikipedia.org/wiki/Sony
 
 **My dock:**
 
-1. [Google Chrome](http://google.com/chrome) (web surfing)
-2. [Tor Browser](http://torproject.org/projects/torbrowser.html) (private browsing)
-3. [ThunderBird](http://thunderbird.net) (email)
-4. [gedit](http://wiki.gnome.org/Apps/Gedit) (writing)
-5. [Terminal](help.gnome.org/users/gnome-terminal/stable/)
+1. [Nautilus](http://wiki.gnome.org/Apps/Nautilus) (file manager)
+2. [Google Chrome](http://google.com/chrome) (web surfing)
+3. [Tor Browser](http://torproject.org/projects/torbrowser.html) (private browsing)
+4. [ThunderBird](http://thunderbird.net) (email)
+5. [gedit](http://wiki.gnome.org/Apps/Gedit) (writing)
+6. [Terminal](http://help.gnome.org/users/gnome-terminal/stable/)
+7. [GIMP](http://www.gimp.org/) (raster graphics)
+8. [Audacity](http://audacityteam.org/) (digital audio)
 
 <hr/>
 
