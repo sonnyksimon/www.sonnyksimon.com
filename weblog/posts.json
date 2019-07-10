@@ -2,14 +2,9 @@
 layout: none
 ---
 {
-  "data": [
+  "posts" : [
     {% for post in site.posts %}
-    {
-      "url":"{{ post.url }}",
-      "title": "{{ post.title }}",
-      "updated": "{{ post.date | date: "%B  %-d, %Y" }}",
-      "body": "{{ post.content }}"
-    }{% unless forloop.last %},{% endunless %}
+    "{{ post.url }}"{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ]
 }
