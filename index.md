@@ -14,7 +14,7 @@ site_name: sonnyksimon
 [weblog](/weblog/) &middot; [twitter](http://twitter.com/sonnyksimon) &middot; [facebook](http://facebook.com/sonny.kothapally) &middot; [flickr](http://flickr.com/sonnyksimon) &middot; [instagram](http://instagram.com/sonnyksimon) &middot; [reddit](http://reddit.com/u/sonnyksimon) &middot; [skype](skype:sonnyksimon?userinfo) &middot; [youtube](http://youtube.com/sonnyksimon)
 
 
-**Nearby:** [what i read](/reading), [things i'm working on](/hacks), [my schedule](http://calendar.google.com/calendar/embed?src=sonnyksimon@gmail.com), [my notes](http://workflowy.com/s/reading-list/OhxwxFGQrNfSAaLn)
+**Nearby:** [what i read](/reading), [things i'm working on](/hacks), [my schedule](http://calendar.google.com/calendar/embed?src=sonnyksimon@gmail.com), [my notes](http://workflowy.com/s/my-public-notes/ba4BWUGg7hyvaMOC)
 
 **Also close by:** [about me](/about), [good words](/about#quotes), [interesting pages](/interesting-pages)
 
