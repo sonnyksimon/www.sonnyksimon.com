@@ -39,6 +39,12 @@ All my writing is done in Markdown. I'm trying to switch to ReStructuredText or 
 
 I mainly program in Python. I tend to use PostgreSQL for my database. I do revision management with Git. On my servers, I use GNU screen to manage tasks. My servers also run Linux.
 
+## So how do you actually work?
+
+Everything I'm working on stays in a folder called "Development". I don't like nesting that much, so I just download and keep my programs each contained in a single folder (which is also checked into git). I keep scripts that build my command-line, and install various programs in my [dotfiles repository](http://github.com/sonnyksimon/dotfiles). 
+
+When I need to work on something, I open a new screen window and detach when I'm done. I've read that doing this eats your RAM and using tmux is a better alternative. But I'm always only working on a small number of things at a time, so it works out somehow.
+
 <hr/>
 
 Back to [home](/).
