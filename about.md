@@ -73,27 +73,6 @@ I prefer email. If something is urgent, you should really send it again to me. I
 
 SuperTux, TuxRacer, PepsiMan, Road Rash, DxBall, Pinball, 4dPrinceOfPersia, SkyRoads, Dangerous Dave, Icy Tower, Age of Empires, Praetorians, Pokemon Yellow, Pokemon Yellow, Pokemon Sapphire, FIFA 12, FIFA 15, FIFA 17, NARUTO: Ultimate Ninja STORM, Naruto Shippuden: Ultimate Ninja Storm 2, Naruto Shippuden: Ultimate Ninja Storm 3, and Naruto Ultimate Ninja Storm 4
 
-## Hardware
-
-I bought a [Lenovo IdeaPad 330](http://en.wikipedia.org/wiki/IdeaPad#IdeaPad_300_Series), the cheapest Lenovo I could find which still had decent build quality. Lenovos seem the best ones to get if you're not going to go for a MacBook. Data is scattered over multiple SD cards and hard drives, with huge overlaps. I like to keep multiple copies just in case something starts failing.
-
-My laptop runs Linux.
-
-My main mobile device is an [Xperia X Compact](http://en.wikipedia.org/wiki/Sony_Xperia_X_Compact). I use it to keep in touch with friends and family, and listen to [music](http://nirvana.com).
-
-## Software
-
-**My dock:**
-
-1. [Nautilus](http://wiki.gnome.org/Apps/Nautilus) (file manager)
-2. [Google Chrome](http://google.com/chrome) (web surfing)
-3. [Tor Browser](http://torproject.org/projects/torbrowser.html) (private browsing)
-4. [ThunderBird](http://thunderbird.net) (email)
-5. [gedit](http://wiki.gnome.org/Apps/Gedit) (writing)
-6. [Terminal](http://help.gnome.org/users/gnome-terminal/stable/)
-7. [GIMP](http://www.gimp.org/) (raster graphics)
-8. [Audacity](http://audacityteam.org/) (digital audio)
-
 <hr/>
 
 Back to [home](/).
