@@ -1,9 +1,9 @@
 ---
 layout: blank
-title: about me (sonny kothapally)
+title: what i use (sonny kothapally)
 charset: utf-8
 description: Sonny Kothapally is a hacker. He is currently enrolled in a distance learning programme studying computers.
-url: http://www.sonnyksimon.com/about
+url: http://www.sonnyksimon.com/usesthis
 locale: en_US
 type: website
 site_name: sonnyksimon
