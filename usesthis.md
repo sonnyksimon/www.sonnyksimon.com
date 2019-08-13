@@ -23,7 +23,7 @@ I'm [Sonny Kothapally](http://sonnyksimon.com). I write stuff, in code for the m
 
 I bought a [Lenovo IdeaPad 330](http://en.wikipedia.org/wiki/IdeaPad#IdeaPad_300_Series), the cheapest Lenovo I could find which still had decent build quality. Lenovos seem the best ones to get if you're not going to go for a MacBook. Data is scattered over multiple SD cards and hard drives, with huge overlaps. I like to keep multiple copies just in case something starts failing.
 
-My laptop runs Linux.
+My laptop runs GNU/Linux.
 
 My main mobile device is an [Xperia X Compact](http://en.wikipedia.org/wiki/Sony_Xperia_X_Compact). I use it to keep in touch with friends and family, and listen to [music](http://nirvana.com).
 
@@ -37,7 +37,7 @@ I try to have a limited number of stuff. In the dock, I keep:
 
 All my writing is done in Markdown. I'm trying to switch to ReStructuredText or AsciiDoc but for now that's that.
 
-I mainly program in Python. I tend to use PostgreSQL for my database. I do revision management with Git. On my servers, I use GNU screen to manage tasks. My servers also run Linux.
+I mainly program in [Python](http://www.python.org). I tend to use [PostgreSQL](http://www.postgresql.org) for my database. I do revision management with Git. On my servers, I use [GNU screen](http://www.gnu.org/software/screen/screen.html) to manage tasks.
 
 ## So how do you actually work?
 
