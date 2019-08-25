@@ -37,7 +37,7 @@ I try to have a limited number of stuff. In the dock, I keep:
 
 All my writing is done in Markdown. I'm trying to switch to ReStructuredText or AsciiDoc but for now that's that.
 
-I mainly program in [Python](http://www.python.org). I tend to use [PostgreSQL](http://www.postgresql.org) for my database. I do revision management with Git. On my servers, I use [GNU screen](http://www.gnu.org/software/screen/screen.html) to manage tasks.
+I mainly program in [JavaScript](https://en.wikipedia.org/wiki/JavaScript). I tend to use [PostgreSQL](http://www.postgresql.org) for my database. I manage revisions with Git. On my servers, I use [GNU screen](http://www.gnu.org/software/screen/screen.html) to manage tasks.
 
 ## So how do you actually work?
 
