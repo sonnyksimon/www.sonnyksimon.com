@@ -1,4 +1,8 @@
 /*
+  An adaptation of en.wikipedia.org's stylesheet,
+  but I've removed the styles that does merging of 
+  hotlink colors, coz it's just wrong.
+
   @sonnyksimon "Sonny Kothapally <me@sonnyksimon.com>"
 */
 
@@ -57,5 +61,3 @@ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,p,blockquote,th,t
 }
 
 body {color: #000;}
-a:visited {background-color: #0b0080;}
-a {color: #0645ad;text-decoration: none;}
