@@ -1,3 +1,7 @@
+---
+layout: blank
+title: "Français élémentaire 1"
+---
 # Français élémentaire «Elementary French» 1
 
 ## Comment fonctione le cours? «How does the course work?»
